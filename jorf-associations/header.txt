@@ -1,0 +1,1 @@
+idasso	identifiant	type	datedeclaration	lieu_declaration	cp	titre	ancien_titre	nouveau_titre	objet	nouvel_objet	additif_objet	themes	siege_social	web	email	dateparution	numparution	page_debut	page_fin
